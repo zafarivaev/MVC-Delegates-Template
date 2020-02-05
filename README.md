@@ -1,4 +1,4 @@
-# VIPER Template
+# MVC Template
 Xcode File Template for generating MVC modules: Model, View, and Controller. Written in Swift 5
 
 # How To Install
